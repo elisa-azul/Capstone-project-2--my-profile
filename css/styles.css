@@ -1,0 +1,141 @@
+h1{
+    font-family: sacramento;
+    font-size: 5.625rem;
+    color:#79B4B7;
+    display: block;
+    position: relative;
+    margin: 0px auto 0 auto;
+    font-weight: bolder;
+}
+
+h2{
+    font-family:Quicksand;
+    color:#79B4B7 ;
+    margin: 0px auto 0 auto;
+}
+
+
+h3{
+    color: #8f8f8f;
+    ;
+}
+
+p{
+    color: white;
+    font-family: Quicksand;
+    font-size: 1.5rem;
+    line-height: 0.8rem;
+    margin-top: 20px;
+    
+}
+
+body{
+    text-align: center;
+}
+
+/*header*/
+
+
+.container-tittle{
+   background-color:white;
+   padding: 0% 30% 1% 30%;
+   
+   
+}
+.title-text{
+    position: relative;
+    margin: 0 auto 0px auto;
+}
+
+.sun{
+    position: relative;
+   
+}
+
+.colibri{
+    padding: 0% 35% 0%;
+    position: absolute;
+
+}
+
+
+.montana{
+    position: relative; 
+    margin-top: 30px;
+
+}
+
+/*what i do*/
+
+.middle-part{
+    background-color:#64C9CF;
+    padding: 4% 30% 4% 30%;
+    position: relative;
+    text-align: center;
+  
+    
+}
+
+.p-profesion{
+
+    margin: 40px 0 0 0 ;
+    line-height: 1.5rem;
+}
+   
+
+
+/*About me*/
+#about{
+    background-color: white;
+    padding: 3% 20% 3% 20%;
+ 
+}
+
+.title-text{
+  
+    margin: 50px auto 0 auto;
+    
+
+}
+.p-about{
+color:gray;
+font-size: 1rem;
+font-family:Quicksand ;
+line-height: 1.5rem;
+margin-top: 20px;
+
+
+}
+.icon {
+    color:#64C9CF;
+    padding-bottom: 20px;
+}
+
+.icon:hover{
+    color:#97DECE;
+    padding-bottom: 20px;
+}
+
+/*Footer*/
+
+#footer{
+    background-color: #82DBD8;
+    color:whitesmoke;
+    padding: 1% 20%;
+    text-align: center;
+    
+}
+
+.medien{
+    margin: 20px 20px;
+}
+
+.p-footer{
+    font-size: 1rem;
+}
+a { text-decoration: none;
+color: whitesmoke; }
+
+a:hover{
+    color: #64C9CF;
+}
